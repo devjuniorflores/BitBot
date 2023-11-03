@@ -1,5 +1,7 @@
 # Proyecto "BitBot: Robot de Trading"
 
+![image](https://github.com/devjuniorflores/BitBot/assets/105132321/b3c293fe-d525-484c-a660-9061b19c5edb)
+
 ## Descripción
 
 ¡Bienvenido a BitBot, el incansable observador del mercado de Bitcoin! Este proyecto revolucionario y en constante evolución utiliza una amalgama de herramientas tecnológicas para rastrear, analizar y visualizar datos financieros del Bitcoin en tiempo real. Desde la recopilación de información hasta la toma de decisiones, este bot inteligente utiliza un arsenal de bibliotecas y algoritmos que te mantendrán al tanto de las tendencias del mercado de Bitcoin.
